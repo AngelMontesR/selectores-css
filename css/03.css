@@ -1,0 +1,16 @@
+.texto {
+    background-color: rgb(211, 210, 210);
+}
+
+.azul {
+    color: #00f;
+}
+
+.mayusculas {
+    text-transform: uppercase;
+}
+
+.texto.azul {
+    color: rgb(27, 94, 180);
+    text-align: end;
+}
